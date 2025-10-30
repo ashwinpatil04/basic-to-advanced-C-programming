@@ -1,36 +1,23 @@
 # Conditionals in C
 
-This section covers **conditional statements** in C programming.  
-Conditionals allow your program to make decisions and execute different code blocks based on certain conditions.
+This folder contains basic examples of **conditional statements** in C programming.  
+Conditional statements allow a program to make decisions based on certain conditions.
 
 ---
 
-## 📘 Topics Covered
-- `if` statement  
-- `if...else` statement  
-- `nested if` statement  
-- `else if` ladder  
-- `switch` statement  
-- Conditional (ternary) operator `?:`
+## 📘 Programs Included
 
----
-
-## 💻 Example Programs
-1. Check whether a number is even or odd  
-2. Find the largest of two or three numbers  
-3. Check whether a number is positive, negative, or zero  
-4. Grade calculation using `if...else if`  
-5. Simple calculator using `switch` statement  
-6. Check leap year using conditional operator  
+1. **if-else.c** — Checks whether a number is even or odd.  
+2. **switch-case.c** — Demonstrates a simple calculator using the `switch` statement.
 
 ---
 
 ## 🧠 Learning Goals
-- Understand decision-making in C  
-- Learn syntax and flow of conditional statements  
-- Practice logical thinking using real examples  
+- Understand how `if-else` and `switch` statements work.  
+- Learn how to control program flow based on conditions.  
+- Practice writing simple decision-making programs.
 
 ---
 
 ## 🚀 Next Step
-After mastering conditionals, move on to **loops** to learn how to repeat tasks efficiently.
+After understanding conditionals, try exploring **loops** to repeat code efficiently.
